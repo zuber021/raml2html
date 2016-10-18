@@ -33,8 +33,8 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "twig/twig": "~1.18",
-    "symfony/console": "~2.6"
+    "twig/twig": "dev-master",
+    "symfony/console": "dev-master"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5",
